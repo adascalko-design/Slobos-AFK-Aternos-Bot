@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JedynaSlusznaPartia.aternos.me:38930",
+    "ip": "JedynaSlusznaPartia.aternos.me",
     "port": 38930,
     "version": "",
     "try-creative": false
