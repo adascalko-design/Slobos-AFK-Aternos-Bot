@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JedynaSlusznaPartia.aternos.me",
+    "ip": "ronquil.aternos.host",
     "port": 38930,
     "version": "1.21.1",
     "try-creative": false
